@@ -69,16 +69,16 @@
 }
 
 .slide-rosa{
-    background-image: url(/src/images/alberta-2297204_1280.jpg);
+    background-image: url(../images/alberta-2297204_1280.jpg);
 }
 .slide-verde{
-    background-image: url(/src/images/iceberg-8532935_1280.jpg);
+    background-image: url(../images/iceberg-8532935_1280.jpg);
 }
 .slide-laranja{
-    background-image: url(/src/images/pyramids-2371501_1280.jpg);
+    background-image: url(../images/pyramids-2371501_1280.jpg);
 }
 .slide-azul{
-    background-image: url(/src/images/river-8279466_1280.jpg);
+    background-image: url(../images/river-8279466_1280.jpg);
 }
 
 .botao.rosa{
